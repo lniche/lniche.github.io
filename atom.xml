@@ -2,18 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lniche.github.io</id>
     <title>NUEVO</title>
-    <updated>2020-08-27T15:42:27.393Z</updated>
+    <updated>2021-04-03T03:02:59.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lniche.github.io"/>
     <link rel="self" href="https://lniche.github.io/atom.xml"/>
     <subtitle>do not drink beer🍺</subtitle>
     <logo>https://lniche.github.io/images/avatar.png</logo>
     <icon>https://lniche.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, NUEVO</rights>
+    <rights>All rights reserved 2021, NUEVO</rights>
+    <entry>
+        <title type="html"><![CDATA[这段时间的思考]]></title>
+        <id>https://lniche.github.io/zhe-duan-shi-jian-de-si-kao/</id>
+        <link href="https://lniche.github.io/zhe-duan-shi-jian-de-si-kao/">
+        </link>
+        <updated>2021-04-03T02:29:47.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://lniche.github.io/post/hello-gridea/</id>
-        <link href="https://lniche.github.io/post/hello-gridea/">
+        <id>https://lniche.github.io/hello-gridea/</id>
+        <link href="https://lniche.github.io/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
